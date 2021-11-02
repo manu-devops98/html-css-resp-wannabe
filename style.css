@@ -85,6 +85,7 @@ img {
 /* lezioni  */
   #lezioni .row  {
     background-color: lightgoldenrodyellow;
+    margin-top: 0;
   }
 
 
@@ -102,6 +103,9 @@ img {
    background-color: white;
    margin-top: 0;
    font-size: 1.3em;
+  }
+  #steps .row h3 {
+    margin-top: 10px;
   }
 
   #steps .row >.left,
